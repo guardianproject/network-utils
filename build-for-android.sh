@@ -6,10 +6,6 @@
 #   git submodule init
 #   git submodule update
 
-# TODO add sha1 checking to all downloads
-# TODO make patch for tcptraceroute configure.ac
-# TODO push to guardianproject git
-
 CWD=`pwd`
 LIB_ROOT=$CWD/root
 
